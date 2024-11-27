@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Lippi
+- prénom : Ugo
+- URL Netlify : https://regal-beignet-645a1f.netlify.app
 
 # Travail
 
