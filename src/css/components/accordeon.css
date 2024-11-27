@@ -5,12 +5,12 @@ details {
     /* fermé et ouvert */
     position: relative;
     width: 130px;
+    transition: all 1s ease-in-out;
 }
 
 details[open] {
     /* ouvert */
     width: 300px;
-    transition: width 2s;
 }
 
 .accordeon {
